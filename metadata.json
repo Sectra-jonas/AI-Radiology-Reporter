@@ -1,0 +1,7 @@
+{
+  "name": "AI Radiology Reporter",
+  "description": "An AI-powered application for drafting radiology reports with features like speech-to-text, image analysis, and automated impression generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
